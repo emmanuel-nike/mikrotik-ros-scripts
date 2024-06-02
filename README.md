@@ -7,13 +7,13 @@ This repository contains MikroTik scripts for hotspot user profiles to run on us
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/mik-hotspot-profile-script.git
+    git clone https://github.com/emmanuel-nike/mikrotik-ros-scripts
     ```
 
 2. Navigate to the cloned repository:
 
     ```bash
-    cd mik-hotspot-profile-script
+    cd mikrotik-ros-scripts
     ```
 
 3. Modify the scripts according to your specific requirements.
