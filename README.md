@@ -32,8 +32,4 @@ Contributions are welcome! If you have any improvements or bug fixes, please sub
 
 ## Disclaimer
 
-Please note that the scripts provided in this repository are for educational and demonstration purposes only. Use them at your own risk.
-
-## Contact
-
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+Please note that the scripts provided in this repository are for educational and demonstration purposes only. Use them at your own risk. The author is not responsible for any misuse or damage caused by the scripts.
